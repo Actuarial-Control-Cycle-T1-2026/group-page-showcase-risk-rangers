@@ -81,7 +81,6 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 - **Long-term charged premium:** Ð3940M  
 - **Long-term expected annual net revenue:** Ð428M  
 
-[Graph: BI Stress Testing Scenarios – Net Revenue]
 <img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/20b29ddb-56ea-4654-ad9e-361636826c72" />
 
 
@@ -102,7 +101,6 @@ This line also shows clear deterioration under worsening scenarios, especially i
 
 
 
-[Graph: Short-term Equipment Failure aggregate loss summary]
 
 ### <ins>Workers’ Compensation<ins>
 Workers’ Compensation is a smaller, steadier supporting line. It remains profitable under baseline assumptions, but its contribution is materially smaller than Equipment Failure.
@@ -115,6 +113,8 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 - **Long-term expected annual loss:** Ð8.03M
 
 <img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/4f9415ef-23bb-4637-b000-6106169a078e" />
+
+
 
 
 ### <ins>Cargo Loss<ins>
@@ -130,6 +130,8 @@ Cargo Loss is attractive because it can scale across solar systems using route-b
 This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic route-level stress. This is evident below in the graph which visualises potential weaknesses in the product. 
 
 <img width="1258" height="654" alt="image" src="https://github.com/user-attachments/assets/d5becdbd-6132-4d86-9f76-6744852cfa9b" />
+
+
 
 
 ## Product Design Highlights
