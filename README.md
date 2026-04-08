@@ -54,7 +54,8 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 - **Long-term expected annual net revenue:** Ð428M  
 
 [Graph: BI Stress Testing Scenarios – Net Revenue]
-<img width="1258" height="1014" alt="image" src="https://github.com/user-attachments/assets/4245d05d-92a9-4009-9cde-ebb5001fa3dc" />
+<img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/20b29ddb-56ea-4654-ad9e-361636826c72" />
+
 
 
 
