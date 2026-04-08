@@ -71,9 +71,13 @@ Equipment Failure is the largest earnings contributor in the proposed portfolio.
 - **Short-term charged premium:** Ð385.0M  
 - **Short-term annual net revenue:** Ð65.8M  
 - **Long-term charged premium:** Ð691.0M  
-- **Long-term annual net revenue:** Ð119.0M  
+- **Long-term annual net revenue:** Ð119.0M
+- **Long-term expected annual loss:** Ð247.55M 
 
 This line also shows clear deterioration under worsening scenarios, especially in the upper tail.
+<img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/2a350bad-42a5-493a-a394-e482d1442b2d" />
+
+
 
 [Graph: Short-term Equipment Failure aggregate loss summary]
 
@@ -84,7 +88,11 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 - **Short-term charged premium:** Ð12.5M  
 - **Short-term annual net revenue:** Ð2.13M  
 - **Long-term charged premium:** Ð22.0M  
-- **Long-term annual net revenue:** Ð3.8M  
+- **Long-term annual net revenue:** Ð3.8M
+- **Long-term expected annual loss:** Ð8.03M
+
+<img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/4f9415ef-23bb-4637-b000-6106169a078e" />
+
 
 ### <ins>Cargo Loss<ins>
 Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
