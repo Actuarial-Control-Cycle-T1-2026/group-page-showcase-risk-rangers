@@ -118,7 +118,7 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 
 
 ### <ins>Cargo Loss<ins>
-Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
+Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. Consequently, this does have draw backs since we lose finesse in dealing with currently operational solar systems. 
 
 - **Short-term expected annual loss:** Ð236B
 - **Short-term charged premium:** Ð259B
@@ -127,7 +127,7 @@ Cargo Loss is attractive because it can scale across solar systems using route-b
 - **Long-term charged premium:** Ð247B
 - **Long-term annual net revenue:** Ð22B
 
-This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic route-level stress. This is evident below in the graph which visualises potential weaknesses in the product. 
+Further, stress testing shows that extreme events can drive large capital requirements. This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic changes to route risk. This is evident below in the graph which visualises potential weaknesses in the product. 
 
 <img width="1258" height="654" alt="image" src="https://github.com/user-attachments/assets/d5becdbd-6132-4d86-9f76-6744852cfa9b" />
 
