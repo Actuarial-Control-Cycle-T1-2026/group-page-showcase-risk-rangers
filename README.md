@@ -179,4 +179,4 @@ Key limitations in the project included:
 - Cargo Loss data lacking a solar-system identifier
 - Legal and jurisdictional uncertainty in an interstellar setting
 
-These limitations mean the recommendations should be interpreted as *model-based commercial proposals*, rather than final operational policy wording.
+These limitations mean the recommendations should be interpreted as model based proposals, rather than final practical policy sugguestions which can be directly applied. 
