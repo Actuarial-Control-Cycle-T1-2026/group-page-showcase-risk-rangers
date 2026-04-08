@@ -1,5 +1,6 @@
 # Risk Rangers
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/89661884-e6c4-44ef-947d-e663ea344efb" />
+<img width="752" height="248" alt="image" src="https://github.com/user-attachments/assets/9f53c5fb-88e2-4e5b-bbe0-92e6a0369790" />
+
 
 
 ## Insurance Feasibility Report for Cosmic Quarry Mining Corporation
