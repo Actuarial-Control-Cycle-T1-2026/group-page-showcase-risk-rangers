@@ -84,8 +84,12 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 ### Cargo Loss
 Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
 
-- **Standard business operations reserves:** Ð7,247,947,158  
-- **Extreme events reserves:** Ð154,371,640,524  
+- **Short-term expected annual loss:** Ð236B
+- **Short-term charged premium:** Ð259B
+- **Short-term annual net revenue:** Ð23B
+- **Long-term expected annual loss:** Ð224B
+- **Long-term charged premium:** Ð247B
+- **Long-term annual net revenue:** Ð22B
 
 This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic route-level stress.
 
