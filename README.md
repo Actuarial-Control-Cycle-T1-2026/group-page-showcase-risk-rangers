@@ -125,10 +125,10 @@ This makes Cargo Loss commercially interesting, but highly sensitive to catastro
 
 The project shows that these hazard lines do not behave the same way:
 
-- **BI** has the most dangerous correlation and downside collapse risk
-- **EF** is the main earnings engine, but also carries meaningful tail deterioration
-- **WC** is comparatively smaller and more stable
-- **CL** is scalable, but extreme-event capital requirements are very large
+- **Business Interuptions** has the most dangerous correlation and downside collapse risk
+- **Equipment Failure** is the main earnings engine, but also carries meaningful tail deterioration
+- **Workers' Compensation** is comparatively smaller and more stable
+- **Cargo Loss** is scalable, but extreme-event capital requirements are very large
 
 Together, this means the portfolio is strongest when products are written as a disciplined mix, rather than treated as interchangeable cover lines.
 
