@@ -159,8 +159,8 @@ This makes Cargo Loss commercially interesting, but highly sensitive to catastro
 The project shows that these hazard lines do not behave the same way:
 
 - **Business Interuptions** has the most dangerous correlation and downside collapse risk. While short-term losses appear stable, the long-term becomes significantly more tail-driven, with a wider gap to extreme percentiles. This indicates that reserves must increase materially over time, as standard capital buffers may be insufficient under correlated system-wide shocks.
-- **Equipment Failure** is a substantial operational revenue line, but also carries meaningful tail deterioration.
-- **Workers' Compensation** is comparatively smaller and more stable.
+- **Equipment Failure** is a substantial operational revenue line with strong commercial value, driven by machine-level and solar-system risk segmentation. At the same time, it shows clear deterioration as conditions worsen, with tail measures rising faster than the mean and downside risk compounding more heavily over the long term.
+- **Workers’ Compensation** is comparatively smaller and more stable, providing a steadier supporting revenue stream rather than a major profit driver. Even so, it still deteriorates systematically under worsening assumptions, particularly over longer horizons, so its risk comes less from extreme volatility and more from persistent upward pressure on overall loss levels.
 - **Cargo Loss** is scalable, but extreme-event capital requirements can be very large. It's day-to-day reserves need to be around Ð7.247B, which is relatively reasonable given returns on the product. However, reserves for catestrophic events instead need to be Ð154.4B, which can be difficult accumulate.
 
 
