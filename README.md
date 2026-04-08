@@ -89,7 +89,8 @@ Cargo Loss is attractive because it can scale across solar systems using route-b
 
 This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic route-level stress.
 
-<img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/e3b6f25f-d787-4506-beb8-a312ffc6e5a8" />
+<img width="1258" height="654" alt="image" src="https://github.com/user-attachments/assets/d5becdbd-6132-4d86-9f76-6744852cfa9b" />
+
 
 ## Product Design Highlights
 
