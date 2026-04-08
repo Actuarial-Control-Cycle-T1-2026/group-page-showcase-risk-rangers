@@ -21,7 +21,7 @@ The objective was not just to design products, but to assess whether they were *
 
 ## Full Report
 
-- [Read the full report (PDF)](<link>)
+- [Read the full report (PDF)](<Risk Ranger's Report.pdf>)
 
 ## Executive Summary
 
