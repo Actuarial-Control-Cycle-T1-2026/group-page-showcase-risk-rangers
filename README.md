@@ -88,7 +88,7 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 
 
 ### <ins>Equipment Failure<ins>
-Equipment Failure is the largest earnings contributor in the proposed portfolio.
+Equipment Failure is a substantial earnings contributor in the proposed portfolio.
 
 - **Short-term expected annual loss:** Ð247.55M  
 - **Short-term charged premium:** Ð385.0M  
