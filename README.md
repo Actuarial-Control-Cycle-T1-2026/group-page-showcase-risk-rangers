@@ -45,7 +45,7 @@ Additionally, it is important to also consider the operating environments of oth
 
 ## Key Findings
 
-### __Business Interruption__
+### <ins>Business Interruption<ins>
 Business Interruption is highly exposed to correlated shocks, especially in system-wide failure scenarios. Under severe stress, the portfolio can generate heavily negative net revenue, showing that BI needs strict exclusions, disciplined underwriting, and strong capital support.
 
 - **Short-term expected annual loss:** Ð652M  
@@ -61,7 +61,7 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 
 
 
-### __Equipment Failure__
+### <ins>Equipment Failure<ins>
 Equipment Failure is the largest earnings contributor in the proposed portfolio.
 
 - **Short-term expected annual loss:** Ð247.55M  
@@ -74,7 +74,7 @@ This line also shows clear deterioration under worsening scenarios, especially i
 
 [Graph: Short-term Equipment Failure aggregate loss summary]
 
-### __Workers’ Compensation__
+### <ins>Workers’ Compensation<ins>
 Workers’ Compensation is a smaller, steadier supporting line. It remains profitable under baseline assumptions, but its contribution is materially smaller than Equipment Failure.
 
 - **Short-term expected annual loss:** Ð8.03M  
@@ -83,7 +83,7 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 - **Long-term charged premium:** Ð22.0M  
 - **Long-term annual net revenue:** Ð3.8M  
 
-### __Cargo Loss__
+### <ins>Cargo Loss<ins>
 Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
 
 - **Short-term expected annual loss:** Ð236B
@@ -100,22 +100,22 @@ This makes Cargo Loss commercially interesting, but highly sensitive to catastro
 
 ## Product Design Highlights
 
-### __Business Interruption__
+### <ins>Business Interruption<ins>
 - Three tiers: **Core BI Protect**, **Enhanced BI Plus**, **Catastrophic BI Ultimate**
 - Waiting periods and coverage expand with risk level
 - Strong exclusions reduce noise, moral hazard, and dependency-driven overexposure
 
-### __Equipment Failure__
+### <ins>Equipment Failure<ins>
 - Three tiers: **Equipment Failure Essentials**, **Equipment Failure Core**, **Equipment Failure Plus**
 - Terms vary by machine risk, operating environment, and solar system
 - Deductibles, coinsurance, and waiting periods strengthen as risk rises
 
-### __Workers’ Compensation__
+### <ins>Workers’ Compensation<ins>
 - Three tiers: **Workers Compensation ActiveCare Essentials**, **Workers Compensation ActiveCare**, **Workers Compensation ActiveCare Plus**
 - Pricing reflects role, claim duration, employment type, and environment
 - Designed as a predictable, long-duration liability stream
 
-### __Cargo Loss__
+### <ins>Cargo Loss<ins>
 - Segmented primarily by **Route Risk**
 - Flexible cover structure with fast lump-sum payout design
 - Strongest sensitivity arises from route disruption rather than isolated operational factors
