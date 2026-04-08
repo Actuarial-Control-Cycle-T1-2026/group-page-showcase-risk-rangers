@@ -43,7 +43,7 @@ Additionally, it is important to also consider the operating environments of oth
 
 ## Key Findings
 
-### 1. Business Interruption carries the most severe downside tail
+### Business Interruption carries the most severe downside tail
 Business Interruption is highly exposed to correlated shocks, especially in system-wide failure scenarios. Under severe stress, the portfolio can generate heavily negative net revenue, showing that BI needs strict exclusions, disciplined underwriting, and strong capital support.
 
 - **Short-term expected annual loss:** Ð652M  
@@ -54,10 +54,11 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 - **Long-term expected annual net revenue:** Ð428M  
 
 [Graph: BI Stress Testing Scenarios – Net Revenue]
-<img width="364" height="271" alt="image" src="https://github.com/user-attachments/assets/67986904-6b52-4bc2-a02e-795ae7f5d7f6" />
+<img width="1258" height="1014" alt="image" src="https://github.com/user-attachments/assets/4245d05d-92a9-4009-9cde-ebb5001fa3dc" />
 
 
-### 2. Equipment Failure is the core commercial line
+
+### Equipment Failure is the core commercial line
 Equipment Failure is the largest earnings contributor in the proposed portfolio.
 
 - **Short-term expected annual loss:** Ð247.55M  
@@ -70,7 +71,7 @@ This line also shows clear deterioration under worsening scenarios, especially i
 
 [Graph: Short-term Equipment Failure aggregate loss summary]
 
-### 3. Workers’ Compensation is profitable but secondary
+### Workers’ Compensation is profitable but secondary
 Workers’ Compensation is a smaller, steadier supporting line. It remains profitable under baseline assumptions, but its contribution is materially smaller than Equipment Failure.
 
 - **Short-term expected annual loss:** Ð8.03M  
@@ -79,7 +80,7 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 - **Long-term charged premium:** Ð22.0M  
 - **Long-term annual net revenue:** Ð3.8M  
 
-### 4. Cargo Loss is scalable, but extreme-event capital is very large
+### Cargo Loss is scalable, but extreme-event capital is very large
 Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
 
 - **Standard business operations reserves:** Ð7,247,947,158  
