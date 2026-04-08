@@ -11,6 +11,29 @@
 **Insurer:** Galaxy General Insurance (GGI)  
 **Client:** Cosmic Quarry Mining Corporation (CQMC)
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Full Report](#full-report)
+- [Executive Summary](#executive-summary)
+  - [Recommended Products](#recommended-products)
+  - [Solar System Context](#solar-system-context)
+
+- [Key Findings](#key-findings)
+  - [Business Interruption](#business-interruption)
+  - [Equipment Failure](#equipment-failure)
+  - [Workers’ Compensation](#workers-compensation)
+  - [Cargo Loss](#cargo-loss)
+
+- [Product Design Highlights](#product-design-highlights)
+  - [Business Interruption](#business-interruption-1)
+  - [Equipment Failure](#equipment-failure-1)
+  - [Workers’ Compensation](#workers-compensation-1)
+  - [Cargo Loss](#cargo-loss-1)
+
+- [Risk and Capital Insights](#risk-and-capital-insights)
+- [Limitations](#limitations)
+
 ## Project Overview
 
 This project develops an insurance program for **Cosmic Quarry Mining Corporation (CQMC)**, designed by **Galaxy General Insurance (GGI)** using statistical modelling, pricing analysis, stress testing, and capital assessment.
