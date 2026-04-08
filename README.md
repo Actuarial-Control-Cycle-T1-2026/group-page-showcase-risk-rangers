@@ -152,9 +152,9 @@ Further, stress testing shows that extreme events can drive large capital requir
 - Designed as a predictable, long-duration liability stream
 
 ### <ins>Cargo Loss<ins>
-- Segmented primarily by *Route Risk*
+- Five tiers: *Low Cargo Cover*, *Core Transit Cover*, *Shipment Essentials*, *High Transit Cover*, and *Extreme Cargo Cover*
 - Flexible cover structure with fast lump-sum payout design
-- Strongest sensitivity arises from route disruption rather than isolated operational factors
+- Strongest sensitivity arises from route disruption, usually incurred from environmental factors, rather than isolated operational factors 
 
 ## Risk and Capital Insights
 
