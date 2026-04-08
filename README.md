@@ -37,7 +37,9 @@ Our final recommendation is for GGI to offer a **tiered multi-line insurance por
 | Cargo Loss | Route-risk segmented cover | Flexible product with strong scalability across systems |
 
 ### Solar System Context
-\*Stuff to be added!*
+Operations in these planetary systems carry many of the same risks, but to differing extents. Work in the Helionis Cluster is often exposed to erratic gravitational forces, causing micro-collisions and shifting debris clouds. Thus, the CL and EF products are likely to suffer the greatest losses in this planetary system, as these products are particularly susceptible to Debris risk. Similarly, the Zeta system also has dangerous space debris patterns and moderately sporadic solar flares, hence having a high Debris risk and Solar Flare risk, potentially impacting CL and WC to a greater degree. Finally, the Epsilon system carries abnormally large extraction risks due to severe weather and thermal patterns. This system therefore carries greater risks to the EF and BI products, as suggested by the threat tables.
+
+Additionally, it is important to also consider the operating environments of other solar systems in which CQMC might eventually expand into. The Bayesian System is known for its above average radiation and temperature levels, which can create a habitat risk, suggesting greater claims for WC. However, this system generally is predictable in terms of radiation and space debris, so these risks are relatively lower for this operation. The Oryn Delta system is known for its sporadic solar flare and low luminosity, as well as its hazardous asymmetric asteroid ring. For this reason, expanding operations into this system is highly risky due to the Communication Failure risks, Debris risks and Radiation risks, which can greatly impact all four hazard products.
 
 ## Key Findings
 
@@ -115,10 +117,10 @@ Together, this means the portfolio is strongest when products are written as a *
 
 Key limitations in the project included:
 
-- inconsistencies between data dictionaries and raw data
-- limited historical inflation and interest data
-- incomplete cause-of-claim information
+- Inconsistencies between data dictionaries and raw data
+- Limited historical inflation and interest data
+- Incomplete cause-of-claim information
 - Cargo Loss data lacking a solar-system identifier
-- legal and jurisdictional uncertainty in an interstellar setting
+- Legal and jurisdictional uncertainty in an interstellar setting
 
 These limitations mean the recommendations should be interpreted as **model-based commercial proposals**, rather than final operational policy wording.
