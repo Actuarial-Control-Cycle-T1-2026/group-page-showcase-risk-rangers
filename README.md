@@ -20,7 +20,7 @@ We proposed and evaluated four coverage lines:
 - **Workers’ Compensation (WC)**
 - **Cargo Loss (CL)**
 
-The objective was not just to design products, but to assess whether they were **commercially viable, scalable across solar systems, and resilient under stress scenarios**.
+The objective was not just to design products, but to assess whether they were commercially viable, scalable across solar systems, and resilient under stress scenarios.
 
 ## Full Report
 
@@ -28,7 +28,7 @@ The objective was not just to design products, but to assess whether they were *
 
 ## Executive Summary
 
-Our final recommendation is for GGI to offer a **tiered multi-line insurance portfolio** tailored to CQMC’s operating risks. Each hazard area is priced using modelling outputs and structured to reflect differences in frequency, severity, and tail exposure.
+Our final recommendation is for GGI to offer a tiered multi-line insurance portfolio tailored to CQMC’s operating risks. Each hazard area is priced using modelling outputs and structured to reflect differences in frequency, severity, and tail exposure.
 
 ### Recommended products
 
@@ -102,22 +102,22 @@ This makes Cargo Loss commercially interesting, but highly sensitive to catastro
 ## Product Design Highlights
 
 ### <ins>Business Interruption<ins>
-- Three tiers: **Core BI Protect**, **Enhanced BI Plus**, **Catastrophic BI Ultimate**
+- Three tiers: *Core BI Protect*, *Enhanced BI Plus*, *Catastrophic BI Ultimate*
 - Waiting periods and coverage expand with risk level
 - Strong exclusions reduce noise, moral hazard, and dependency-driven overexposure
 
 ### <ins>Equipment Failure<ins>
-- Three tiers: **Equipment Failure Essentials**, **Equipment Failure Core**, **Equipment Failure Plus**
+- Three tiers: *Equipment Failure Essentials*, *Equipment Failure Core*, *Equipment Failure Plus*
 - Terms vary by machine risk, operating environment, and solar system
 - Deductibles, coinsurance, and waiting periods strengthen as risk rises
 
 ### <ins>Workers’ Compensation<ins>
-- Three tiers: **Workers Compensation ActiveCare Essentials**, **Workers Compensation ActiveCare**, **Workers Compensation ActiveCare Plus**
+- Three tiers: *Workers Compensation ActiveCare Essentials*, *Workers Compensation ActiveCare*, *Workers Compensation ActiveCare Plus*
 - Pricing reflects role, claim duration, employment type, and environment
 - Designed as a predictable, long-duration liability stream
 
 ### <ins>Cargo Loss<ins>
-- Segmented primarily by **Route Risk**
+- Segmented primarily by *Route Risk*
 - Flexible cover structure with fast lump-sum payout design
 - Strongest sensitivity arises from route disruption rather than isolated operational factors
 
@@ -130,7 +130,7 @@ The project shows that these hazard lines do not behave the same way:
 - **WC** is comparatively smaller and more stable
 - **CL** is scalable, but extreme-event capital requirements are very large
 
-Together, this means the portfolio is strongest when products are written as a **disciplined mix**, rather than treated as interchangeable cover lines.
+Together, this means the portfolio is strongest when products are written as a disciplined mix, rather than treated as interchangeable cover lines.
 
 ## Limitations
 
@@ -142,4 +142,4 @@ Key limitations in the project included:
 - Cargo Loss data lacking a solar-system identifier
 - Legal and jurisdictional uncertainty in an interstellar setting
 
-These limitations mean the recommendations should be interpreted as **model-based commercial proposals**, rather than final operational policy wording.
+These limitations mean the recommendations should be interpreted as *model-based commercial proposals*, rather than final operational policy wording.
