@@ -1,4 +1,6 @@
 # Risk Rangers
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/fa9401ed-cc53-4832-bca2-56048165d3a6" />
+
 ## Insurance Feasibility Report for Cosmic Quarry Mining Corporation
 
 **Course:** ACTL4001  
