@@ -36,6 +36,9 @@ Our final recommendation is for GGI to offer a **tiered multi-line insurance por
 | Workers’ Compensation | 3-tier product | Smaller but stable supporting line with role- and environment-based pricing |
 | Cargo Loss | Route-risk segmented cover | Flexible product with strong scalability across systems |
 
+### Solar System Context
+\*Stuff to be added!*
+
 ## Key Findings
 
 ### 1. Business Interruption carries the most severe downside tail
