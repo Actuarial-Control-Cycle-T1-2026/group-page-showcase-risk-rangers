@@ -43,7 +43,7 @@ Additionally, it is important to also consider the operating environments of oth
 
 ## Key Findings
 
-### Business Interruption carries the most severe downside tail
+### Business Interruption
 Business Interruption is highly exposed to correlated shocks, especially in system-wide failure scenarios. Under severe stress, the portfolio can generate heavily negative net revenue, showing that BI needs strict exclusions, disciplined underwriting, and strong capital support.
 
 - **Short-term expected annual loss:** Ð652M  
@@ -59,7 +59,7 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 
 
 
-### Equipment Failure is the core commercial line
+### Equipment Failure
 Equipment Failure is the largest earnings contributor in the proposed portfolio.
 
 - **Short-term expected annual loss:** Ð247.55M  
@@ -72,7 +72,7 @@ This line also shows clear deterioration under worsening scenarios, especially i
 
 [Graph: Short-term Equipment Failure aggregate loss summary]
 
-### Workers’ Compensation is profitable but secondary
+### Workers’ Compensation
 Workers’ Compensation is a smaller, steadier supporting line. It remains profitable under baseline assumptions, but its contribution is materially smaller than Equipment Failure.
 
 - **Short-term expected annual loss:** Ð8.03M  
@@ -81,7 +81,7 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 - **Long-term charged premium:** Ð22.0M  
 - **Long-term annual net revenue:** Ð3.8M  
 
-### Cargo Loss is scalable, but extreme-event capital is very large
+### Cargo Loss
 Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
 
 - **Standard business operations reserves:** Ð7,247,947,158  
