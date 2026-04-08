@@ -1,5 +1,6 @@
 # Risk Rangers
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/9f53c5fb-88e2-4e5b-bbe0-92e6a0369790" />
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/9e3291ed-8b93-4661-ae77-2ff8b5d58f73" />
+
 
 
 
