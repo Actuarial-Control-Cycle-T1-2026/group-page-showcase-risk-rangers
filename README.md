@@ -45,7 +45,7 @@ We proposed and evaluated four coverage lines:
 - **Workers’ Compensation (WC)**
 - **Cargo Loss (CL)**
 
-The objective was not just to design products, but to assess whether they were commercially viable, scalable across solar systems, and resilient under stress scenarios.
+The objective was to design products while assessing whether they were commercially viable, scalable across solar systems, and resilient under stress scenarios.
 
 ## Full Report
 
