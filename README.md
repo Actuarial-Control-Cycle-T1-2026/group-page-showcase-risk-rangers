@@ -37,7 +37,7 @@ Our final recommendation is for GGI to offer a tiered multi-line insurance portf
 | Hazard | Recommended product structure | Key rationale |
 |---|---|---|
 | Business Interruption | 3-tier product | Captures both moderate interruptions and extreme system-wide failure risk |
-| Equipment Failure | 3-tier product | Strongest earnings and capital line, with pricing linked to machine and solar-system risk |
+| Equipment Failure | 3-tier product | Risk-segmented product with pricing linked to machine and solar-system risk, supporting a substantial operational revenue line |
 | Workers’ Compensation | 3-tier product | Smaller but stable supporting line with role- and environment-based pricing |
 | Cargo Loss | Route-risk segmented cover | Flexible product with strong scalability across systems |
 
@@ -136,7 +136,7 @@ This makes Cargo Loss commercially interesting, but highly sensitive to catastro
 The project shows that these hazard lines do not behave the same way:
 
 - **Business Interuptions** has the most dangerous correlation and downside collapse risk
-- **Equipment Failure** is the main earnings engine, but also carries meaningful tail deterioration
+- **Equipment Failure** is a substantial operational revenue line, but also carries meaningful tail deterioration
 - **Workers' Compensation** is comparatively smaller and more stable
 - **Cargo Loss** is scalable, but extreme-event capital requirements can be very large. It's day-to-day reserves need to be around Ð7.247B, which is relatively reasonable given returns on the product. However, reserves for catestrophic events instead need to be Ð154.4B, which can be difficult accumulate.
 
