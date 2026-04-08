@@ -104,7 +104,7 @@ Cargo Loss is attractive because it can scale across solar systems using route-b
 - **Long-term charged premium:** Ð247B
 - **Long-term annual net revenue:** Ð22B
 
-This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic route-level stress.
+This makes Cargo Loss commercially interesting, but highly sensitive to catastrophic route-level stress. This is evident below in the graph which visualises potential weaknesses in the product. 
 
 <img width="1258" height="654" alt="image" src="https://github.com/user-attachments/assets/d5becdbd-6132-4d86-9f76-6744852cfa9b" />
 
@@ -138,7 +138,9 @@ The project shows that these hazard lines do not behave the same way:
 - **Business Interuptions** has the most dangerous correlation and downside collapse risk
 - **Equipment Failure** is the main earnings engine, but also carries meaningful tail deterioration
 - **Workers' Compensation** is comparatively smaller and more stable
-- **Cargo Loss** is scalable, but extreme-event capital requirements are very large
+- **Cargo Loss** is scalable, but extreme-event capital requirements can be very large. It's day-to-day reserves need to be around Ð7.247B, which is relatively reasonable given returns on the product. However, reserves for catestrophic events instead need to be Ð154.4B, which can be difficult accumulate.
+
+
 
 Together, this means the portfolio is strongest when products are written as a disciplined mix, rather than treated as interchangeable cover lines.
 
