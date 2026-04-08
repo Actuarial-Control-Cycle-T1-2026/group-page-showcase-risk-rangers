@@ -62,7 +62,7 @@ Our final recommendation is for GGI to offer a tiered multi-line insurance portf
 | Business Interruption | 3-tier product | Captures both moderate interruptions and extreme system-wide failure risk |
 | Equipment Failure | 3-tier product | Risk-segmented product with pricing linked to machine and solar-system risk, supporting a substantial operational revenue line |
 | Workers’ Compensation | 3-tier product | Smaller but stable supporting line with role- and environment-based pricing |
-| Cargo Loss | Route-risk segmented cover | Flexible product with strong scalability across systems |
+| Cargo Loss | 5-tier product | Flexible product, segmented by Route-risk, with strong scalability across systems  |
 
 ### Solar System Context
 Operations in these planetary systems carry many of the same risks, but to differing extents. Work in the Helionis Cluster is often exposed to erratic gravitational forces, causing micro-collisions and shifting debris clouds. Thus, the CL and EF products are likely to suffer the greatest losses in this planetary system, as these products are particularly susceptible to Debris risk. Similarly, the Zeta system also has dangerous space debris patterns and moderately sporadic solar flares, hence having a high Debris risk and Solar Flare risk, potentially impacting CL and WC to a greater degree. Finally, the Epsilon system carries abnormally large extraction risks due to severe weather and thermal patterns. This system therefore carries greater risks to the EF and BI products, as suggested by the threat tables.
