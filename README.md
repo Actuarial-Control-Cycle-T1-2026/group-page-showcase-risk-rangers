@@ -43,7 +43,7 @@ Additionally, it is important to also consider the operating environments of oth
 
 ## Key Findings
 
-### Business Interruption
+### _Business Interruption_
 Business Interruption is highly exposed to correlated shocks, especially in system-wide failure scenarios. Under severe stress, the portfolio can generate heavily negative net revenue, showing that BI needs strict exclusions, disciplined underwriting, and strong capital support.
 
 - **Short-term expected annual loss:** Ð652M  
@@ -59,7 +59,7 @@ Business Interruption is highly exposed to correlated shocks, especially in syst
 
 
 
-### Equipment Failure
+### _Equipment Failure_
 Equipment Failure is the largest earnings contributor in the proposed portfolio.
 
 - **Short-term expected annual loss:** Ð247.55M  
@@ -72,7 +72,7 @@ This line also shows clear deterioration under worsening scenarios, especially i
 
 [Graph: Short-term Equipment Failure aggregate loss summary]
 
-### Workers’ Compensation
+### _Workers’ Compensation_
 Workers’ Compensation is a smaller, steadier supporting line. It remains profitable under baseline assumptions, but its contribution is materially smaller than Equipment Failure.
 
 - **Short-term expected annual loss:** Ð8.03M  
@@ -81,7 +81,7 @@ Workers’ Compensation is a smaller, steadier supporting line. It remains profi
 - **Long-term charged premium:** Ð22.0M  
 - **Long-term annual net revenue:** Ð3.8M  
 
-### Cargo Loss
+### _Cargo Loss_
 Cargo Loss is attractive because it can scale across solar systems using route-based segmentation rather than solar-system identifiers. However, stress testing shows that extreme events can drive very large capital requirements.
 
 - **Short-term expected annual loss:** Ð236B
@@ -98,22 +98,22 @@ This makes Cargo Loss commercially interesting, but highly sensitive to catastro
 
 ## Product Design Highlights
 
-### Business Interruption
+### _Business Interruption_
 - Three tiers: **Core BI Protect**, **Enhanced BI Plus**, **Catastrophic BI Ultimate**
 - Waiting periods and coverage expand with risk level
 - Strong exclusions reduce noise, moral hazard, and dependency-driven overexposure
 
-### Equipment Failure
+### _Equipment Failure_
 - Three tiers: **Equipment Failure Essentials**, **Equipment Failure Core**, **Equipment Failure Plus**
 - Terms vary by machine risk, operating environment, and solar system
 - Deductibles, coinsurance, and waiting periods strengthen as risk rises
 
-### Workers’ Compensation
+### _Workers’ Compensation_
 - Three tiers: **Workers Compensation ActiveCare Essentials**, **Workers Compensation ActiveCare**, **Workers Compensation ActiveCare Plus**
 - Pricing reflects role, claim duration, employment type, and environment
 - Designed as a predictable, long-duration liability stream
 
-### Cargo Loss
+### _Cargo Loss_
 - Segmented primarily by **Route Risk**
 - Flexible cover structure with fast lump-sum payout design
 - Strongest sensitivity arises from route disruption rather than isolated operational factors
