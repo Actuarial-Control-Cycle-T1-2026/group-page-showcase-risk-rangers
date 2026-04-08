@@ -46,7 +46,16 @@ Additionally, it is important to also consider the operating environments of oth
 ### 1. Business Interruption carries the most severe downside tail
 Business Interruption is highly exposed to correlated shocks, especially in system-wide failure scenarios. Under severe stress, the portfolio can generate heavily negative net revenue, showing that BI needs strict exclusions, disciplined underwriting, and strong capital support.
 
+- **Short-term expected annual loss:** Ð652M  
+- **Short-term charged premium:** Ð730M  
+- **Short-term expected annual net revenue:** Ð77.7M  
+- **Long-term expected annual loss:** Ð3510M
+- **Long-term charged premium:** Ð3940M  
+- **Long-term expected annual net revenue:** Ð428M  
+
 [Graph: BI Stress Testing Scenarios – Net Revenue]
+<img width="364" height="271" alt="image" src="https://github.com/user-attachments/assets/67986904-6b52-4bc2-a02e-795ae7f5d7f6" />
+
 
 ### 2. Equipment Failure is the core commercial line
 Equipment Failure is the largest earnings contributor in the proposed portfolio.
